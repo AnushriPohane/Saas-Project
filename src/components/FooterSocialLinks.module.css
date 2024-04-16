@@ -196,9 +196,10 @@
     line-height: 25px;
   }
   .h21 {
-    font-size: 32px;
+    font-size: 30px;
     line-height: 36px;
-  }
+    text-align: right;
+    }
   .faqs,
   .footerSocialLinks {
     padding-bottom: 55px;
@@ -209,4 +210,5 @@
     padding-top: 20px;
     padding-bottom: 50px;
   }
+  
 }

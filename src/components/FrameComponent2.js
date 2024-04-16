@@ -15,20 +15,20 @@ const FrameComponent2 = memo(() => {
             className={styles.acme1Icon}
             loading="lazy"
             alt=""
-            src="/acme-1@2x.png"
+            src="image-1.png"
           />
           <img
             className={styles.quantum1Icon}
             loading="lazy"
             alt=""
-            src="/quantum-1@2x.png"
+            src="image-2.png"
           />
           <div className={styles.echo1Wrapper}>
             <img
               className={styles.echo1Icon}
               loading="lazy"
               alt=""
-              src="/echo-1@2x.png"
+              src="image-3.png"
             />
           </div>
           <div className={styles.celestia1Wrapper}>
@@ -36,7 +36,7 @@ const FrameComponent2 = memo(() => {
               className={styles.celestia1Icon}
               loading="lazy"
               alt=""
-              src="/celestia-1@2x.png"
+              src="/image-4.png"
             />
           </div>
           <div className={styles.pulse1Wrapper}>
@@ -44,7 +44,7 @@ const FrameComponent2 = memo(() => {
               className={styles.pulse1Icon}
               loading="lazy"
               alt=""
-              src="/pulse-1@2x.png"
+              src="image-5.png"
             />
           </div>
           <div className={styles.dividerShape}>
@@ -52,7 +52,7 @@ const FrameComponent2 = memo(() => {
               className={styles.apex1Icon}
               loading="lazy"
               alt=""
-              src="/apex-1@2x.png"
+              src="image-6.png"
             />
           </div>
         </div>

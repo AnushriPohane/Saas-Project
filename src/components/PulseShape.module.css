@@ -142,6 +142,7 @@
   left: 0;
   top: 0;
   transform: scale(1.14);
+
 }
 .cursor1Icon,
 .cursor2Icon,
@@ -253,6 +254,7 @@
   font-family: Inter;
 }
 @media screen and (max-width: 1050px) {
+  
   .h1 {
     font-size: 66px;
     line-height: 75px;
@@ -274,11 +276,15 @@
   }
   .body {
     font-size: 18px;
-    line-height: 25px;
+    line-height: 25px; 
   }
   .hero {
     padding-left: 20px;
     padding-right: 20px;
     box-sizing: border-box;
   }
+  .wrapperMessage2Parent,
+  .yourCompanyInc{
+    display: none;
+  } 
 }
